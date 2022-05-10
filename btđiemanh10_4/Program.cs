@@ -1,11 +1,13 @@
 ﻿using System;
 
+
 namespace btđiemanh10_4
 {
     class Program
     {
         static void Main(string[] args)
         {
+            int min, max,solanxuathien;
             int[] array = new int[10];
             for (int i = 0; i < array.Length; i++)
             {
@@ -17,8 +19,43 @@ namespace btđiemanh10_4
             {
                 Console.WriteLine(array[i]);
             }
+            max = array[0];
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (max < array[i])
+                    max = array[i];
+            }
+            min = array[0];
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (min > array[i])
+                    min = array[i];
+            }
+            int n = array.Length;
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (array[i] > array[j])
+                    {
+                        // Nếu arr[i] > arr[j] thì hoán đổi giá trị của arr[i] và arr[j]
+                        int temp = array[i];
+                        array[i] = array[j];
+                        array[j] = temp;
+                    }
+                }
+            }
+               
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write( array[i] + " ");
+            }
 
+
+            Console.WriteLine("\ngia tri lon nhat : " +max);
+            Console.WriteLine("gia tri nho nhat : " + min);
         }
+        
 
     }
 }
