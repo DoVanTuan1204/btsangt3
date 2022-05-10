@@ -1,0 +1,13 @@
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.AssemblyInfoInputs.cache
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.AssemblyInfo.cs
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.csproj.CoreCompileInputs.cache
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\bin\Debug\netcoreapp3.1\btđiemanh10_4.exe
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\bin\Debug\netcoreapp3.1\btđiemanh10_4.deps.json
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\bin\Debug\netcoreapp3.1\btđiemanh10_4.runtimeconfig.json
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\bin\Debug\netcoreapp3.1\btđiemanh10_4.runtimeconfig.dev.json
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\bin\Debug\netcoreapp3.1\btđiemanh10_4.dll
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\bin\Debug\netcoreapp3.1\btđiemanh10_4.pdb
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.dll
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.pdb
+D:\btthayhuy\btđiemanh10_4\btđiemanh10_4\obj\Debug\netcoreapp3.1\btđiemanh10_4.genruntimeconfig.cache
